@@ -258,6 +258,7 @@ Here is a list of projects which are currently using OverFast API as a data sour
 
 - Overfast API client (https://github.com/Sipixer/overfast-api-client)
 - Watch Over, mobile app by @Backxtar (https://github.com/Backxtar)
+- Overwatch Career Profile in the browser by @EliaRenov ([repository](https://github.com/EliaRenov/ow-career-profile) / [live](https://overwatch-career-profile.netlify.app/))
 - ...
 
 ## 🙏 Credits
